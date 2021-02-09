@@ -37,4 +37,5 @@ public class ModItems
     public static final RegistryObject<BlockItem> TOPAZ_CAKE = ITEMS.register("topaz_cake", () -> new BlockItem(ModBlocks.TOPAZ_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
     public static final RegistryObject<BlockItem> PLATINUM_CAKE = ITEMS.register("platinum_cake", () -> new BlockItem(ModBlocks.PLATINUM_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
     public static final RegistryObject<BlockItem> BERYLLIUM_CAKE = ITEMS.register("beryllium_cake", () -> new BlockItem(ModBlocks.BERYLLIUM_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
+    public static final RegistryObject<BlockItem> BIXBIT_CAKE = ITEMS.register("bixbit_cake", () -> new BlockItem(ModBlocks.BIXBIT_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
 }
