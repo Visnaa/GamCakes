@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "gemcakes:blocks/beryllium_cake/cake_side",
+        "bottom": "gemcakes:blocks/beryllium_cake/cake_bottom",
+        "top": "gemcakes:blocks/beryllium_cake/cake_top",
+        "side": "gemcakes:blocks/beryllium_cake/cake_side",
+        "inside": "gemcakes:blocks/beryllium_cake/cake_inner"
+    },
+    "elements": [
+        {   "from": [ 3, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "BEB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "gemcakes:lime_frosting"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:wheat"
+    },
+    "D": {
+      "item": "gemcakes:light_blue_frosting"
+    },
+    "E": {
+      "item": "morejewels:beryllium"
+    }
+  },
+  "result": {
+    "item": "gemcakes:beryllium_cake"
+  }
+}
