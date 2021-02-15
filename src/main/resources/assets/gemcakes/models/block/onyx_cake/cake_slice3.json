@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "gemcakes:blocks/onyx_cake/cake_side",
+        "bottom": "gemcakes:blocks/onyx_cake/cake_bottom",
+        "top": "gemcakes:blocks/onyx_cake/cake_top",
+        "side": "gemcakes:blocks/onyx_cake/cake_side",
+        "inside": "gemcakes:blocks/onyx_cake/cake_inner"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

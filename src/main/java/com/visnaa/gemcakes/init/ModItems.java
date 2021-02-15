@@ -39,4 +39,5 @@ public class ModItems
     public static final RegistryObject<BlockItem> BERYLLIUM_CAKE = ITEMS.register("beryllium_cake", () -> new BlockItem(ModBlocks.BERYLLIUM_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
     public static final RegistryObject<BlockItem> BIXBIT_CAKE = ITEMS.register("bixbit_cake", () -> new BlockItem(ModBlocks.BIXBIT_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
     public static final RegistryObject<BlockItem> MALACHITE_CAKE = ITEMS.register("malachite_cake", () -> new BlockItem(ModBlocks.MALACHITE_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
+    public static final RegistryObject<BlockItem> ONYX_CAKE = ITEMS.register("onyx_cake", () -> new BlockItem(ModBlocks.ONYX_CAKE.get(), new Item.Properties().group(Main.ITEM_GROUP)));
 }

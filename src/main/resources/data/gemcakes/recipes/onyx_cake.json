@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ADA",
+    "AAA",
     "BEB",
     "CCC"
   ],
@@ -15,14 +15,11 @@
     "C": {
       "item": "minecraft:wheat"
     },
-    "D": {
-      "item": "gemcakes:sugar_powder"
-    },
     "E": {
-      "item": "morejewels:opal"
+      "item": "morejewels:onyx"
     }
   },
   "result": {
-    "item": "gemcakes:opal_cake"
+    "item": "gemcakes:onyx_cake"
   }
 }
