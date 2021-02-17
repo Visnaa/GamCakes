@@ -28,4 +28,5 @@ public class ModBlocks
     public static final RegistryObject<CakeBlock> BIXBIT_CAKE = BLOCKS.register("bixbit_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
     public static final RegistryObject<CakeBlock> MALACHITE_CAKE = BLOCKS.register("malachite_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
     public static final RegistryObject<CakeBlock> ONYX_CAKE = BLOCKS.register("onyx_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
+    public static final RegistryObject<CakeBlock> PERIDOT_CAKE = BLOCKS.register("peridot_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
 }
