@@ -24,3 +24,9 @@ description='''
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.gemcakes]]
+    modId="morejewels"
+    mandatory=true
+    versionRange="[2.5,)"
+    ordering="NONE"
+    side="BOTH"
