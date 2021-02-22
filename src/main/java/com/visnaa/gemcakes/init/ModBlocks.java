@@ -31,4 +31,5 @@ public class ModBlocks
     public static final RegistryObject<CakeBlock> PERIDOT_CAKE = BLOCKS.register("peridot_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
     public static final RegistryObject<CakeBlock> MOON_STONE_CAKE = BLOCKS.register("moon_stone_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
     public static final RegistryObject<CakeBlock> SUN_STONE_CAKE = BLOCKS.register("sun_stone_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
+    public static final RegistryObject<CakeBlock> CITRINE_CAKE = BLOCKS.register("citrine_cake", () -> new CakeBlock(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.5f, 0.5f).sound(SoundType.CLOTH)));
 }
