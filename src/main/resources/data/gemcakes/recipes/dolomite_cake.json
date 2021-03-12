@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "AAA",
+    "ADA",
     "BEB",
     "CCC"
   ],
   "key": {
     "A": {
-      "item": "gemcakes:white_frosting"
+      "item": "gemcakes:pink_frosting"
     },
     "B": {
       "item": "minecraft:sugar"
@@ -16,10 +16,10 @@
       "item": "minecraft:wheat"
     },
     "E": {
-      "item": "morejewels:platinum"
+      "item": "morejewels:dolomite"
     }
   },
   "result": {
-    "item": "gemcakes:platinum_cake"
+    "item": "gemcakes:dolomite_cake"
   }
 }
