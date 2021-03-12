@@ -15,6 +15,9 @@
     "C": {
       "item": "minecraft:wheat"
     },
+    "D": {
+      "item": "gemcakes:white_frosting"
+    },
     "E": {
       "item": "morejewels:dolomite"
     }
