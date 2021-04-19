@@ -25,3 +25,9 @@ This mod adds cakes made from gems.
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.gemcakes]]
+    modId="morejewels"
+    mandatory=true
+    versionRange="[2.9,)"
+    ordering="NONE"
+    side="BOTH"
