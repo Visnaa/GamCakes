@@ -4,10 +4,11 @@ license="All rights reserved"
 
 [[mods]]
 modId="gemcakes"
-version="1.6"
+version="1.7"
 displayName="Gem Cakes"
 authors="Visnaa"
 description='''
+This mod adds cakes made from gems.
 '''
 
 [[dependencies.gemcakes]]
@@ -24,9 +25,3 @@ description='''
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.gemcakes]]
-    modId="morejewels"
-    mandatory=true
-    versionRange="[2.6,)"
-    ordering="NONE"
-    side="BOTH"
